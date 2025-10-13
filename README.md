@@ -42,7 +42,7 @@ BGA162 EMCP 4G+1G (Storage+Memory)
 Clearly this is an storage and RAM combo in a single ic, you can upgrade with other emcp with the same BGA layout as well, according to datasheet of the SOC itself and other phones with the same chip.
 
 ### **$\textsf{\color{#00f6ff}{Qualcomm PM8916}}$**
-Main power regular for whole device itself, easy to find replacement and datasheet, i'll providing power probes in futher updates
+Main power management IC for whole device itself with Li-Po charger built-in, easy to find replacement and datasheet, i'll providing power probes in futher updates
 
 ### **$\textsf{\color{#d800ff}{SMMI S5643-11}}$**
 Multi-Mode Multi-Band Power Amplifier Module made by Smart Micro, i've found out this is can be replace with better PA ic with the same pinout S5643-62, i've ordered hopefully my theory works out
