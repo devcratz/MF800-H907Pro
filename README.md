@@ -30,7 +30,7 @@ HF01 Z02
 13U00004A
 ```
 # IC Details:
- ![i7](images/BoardMarking1.jpg?raw=true)
+ ![i7](images/BoardMark1.jpg?raw=true)
 
 ### **$\textsf{\color{#ff0000}{QUALCOMM MSM8916-6VV}}$**
 This is the main SOC for the LTE Hotspot
