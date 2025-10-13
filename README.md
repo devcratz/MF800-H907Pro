@@ -37,7 +37,7 @@ This is the main SOC for the LTE Hotspot
 
 ### **$\textsf{\color{#ff9c00}{SK Hynix H9TQ32A4GTMC}}$**
 ```
-BGA162 EMCP 4G+1G (Storage+Memory)
+BGA221 EMCP 4G+1G (Storage+Memory)
 ```
 Clearly this is an storage and RAM combo in a single ic, you can upgrade with other emcp with the same BGA layout as well, according to datasheet of the SOC itself and other phones with the same chip.
 
