@@ -47,13 +47,13 @@ Main power regular for whole device itself, easy to find replacement and datashe
 ### **$\textsf{\color{#d800ff}{SMMI S5643-11}}$**
 Multi-Mode Multi-Band Power Amplifier Module made by Smart Micro, i've found out this is can be replace with better PA ic with the same pinout S5643-62, i've ordered hopefully my theory works out
 
-### **$\textsf{\color{12ff00}{Unknown IC (Marking DGFH)}}$**
+### **$\textsf{\color{Green}{Unknown IC (Marking DGFH)}}$**
 To my knowlegde this probaly a FEM (Front End Module) IC, haven't found anything online related to this ic for now
 
-### **$\textsf{\color{0000ff}{Qualcomm WTR4905}}$**
+### **$\textsf{\color{Blue}{Qualcomm WTR4905}}$**
 WTR4905 is a High pass RF transceiver IC
 
-### **$\textsf{\color{fffc00}{Qualcomm WCN3620}}$**
+### **$\textsf{\color{Yellow}{Qualcomm WCN3620}}$**
 Wifi IC with 2.4Ghz wifi support and BT4.0, it can coassistant with LTE. Bluetooth is disable by default inside device build.prop, i'll try to enable it.
 
 ### At this point this LTE Hotspot is just a freaking 2014 phone with a super small LCD display with resolution up to 128x128 pixel :))
